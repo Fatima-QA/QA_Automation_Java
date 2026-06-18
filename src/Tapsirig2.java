@@ -1,6 +1,6 @@
 public class Tapsirig2 {
     public static void main(String[] args) {
-        
+
         int bal = 1000;
         System.out.println("Başlanğıc: " + bal);  // 1000
 
