@@ -17,7 +17,7 @@ public class Tapsirig3 {
         final int MAX_KREDIT_MUDDETI = 60 ;
         System.out.println("Max kredit müddəti (ay): " + MAX_KREDIT_MUDDETI);
 
-        int MIN_KREDIT = 500; //java: variable MIN_KREDIT is already defined in method main(java.lang.String[])
+        // int MIN_KREDIT = 500; //java: variable MIN_KREDIT is already defined in method main(java.lang.String[])
 
 
     }
