@@ -12,8 +12,8 @@ public class Task3_Tapsirig3 {
         System.out.println(p || q);          // ?-->true
         System.out.println(!p && !q);        // ?-->false
         System.out.println(a > 5 || b > 5);  // ?-->true
-        System.out.println(s + a + b);       // ?-->QA83
-        System.out.println(a + b + s);       // ?-->11QA
+        System.out.println(s + a + b);       // ?-->QA83   QA + 8 =QA8  QA8 + 3 = QA83
+        System.out.println(a + b + s);       // ?-->11QA   8 + 3= 11    11+QA=11QA
 
 
 
