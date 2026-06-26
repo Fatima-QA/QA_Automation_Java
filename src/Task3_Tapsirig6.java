@@ -1,5 +1,5 @@
-public class src/Task3_Tapsirig6 {
-    public  static void main (String[] args){
+public class Task3_Tapsirig6 {
+    public  static void main(String[] args){
         final double PI = 3.14159;
         final int MAX_DENEME = 3;
         final String BANK_KODU = "ABB01";
